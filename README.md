@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sowdarjya
 - 👀 I’m interested in becoming MERN stack developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me on LinkedIn: Sowdarjya Kolay
 - 😄 Pronouns: He/Him
