@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sowdarjya Kolay</h1>
 <h3 align="center">A passionate frontend developer from India aspiring to become a full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowdarjya&label=Profile%20views&color=0e75b6&style=plastic" alt="sowdarjya" /> </p>
-
 <p align="left"> <a href="https://twitter.com/_kolayyyyyyy__" target="blank"><img src="https://img.shields.io/twitter/follow/_kolayyyyyyy__?logo=twitter&style=for-the-badge" alt="_kolayyyyyyy__" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
