@@ -5,12 +5,24 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sowdarjya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sowdarjya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowdarjya&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sowdarjya&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif"  />
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sowdarjya&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sowdarjya&theme=radical&hide_border=false&border=true&border_color=ffffff)
+<img align="right" src="https://media.tenor.com/PGEpDsrsYcIAAAAM/luffy-one-piece-anime.gif"  />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowdarjya&theme=transparent)
+
 </div>
 
 ###
 
-<img align="left" src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif"  />
 <img align="right" height="250" src="https://media.tenor.com/xA2tAXgKt5UAAAAM/kuroo-tetsurou-haikyuu.gif"  />
 
 ###
