@@ -1,6 +1,7 @@
 <h5 align="center">Hi 👋! My name is Sowdarjya Kolay and I'm a frontend developer, from India</h5>
 
 ###
+<img align="left" height="150" src="https://media.tenor.com/Q3h6crA__hcAAAAM/itadori-yuji-hello.gif"  />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sowdarjya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -9,11 +10,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/xA2tAXgKt5UAAAAM/kuroo-tetsurou-haikyuu.gif"  />
+<img align="left" height="170" src="https://media.tenor.com/5SPPGw_mPL0AAAAM/mashle-mash-burnedead.gif"  />
+<img align="right" height="250" src="https://media.tenor.com/xA2tAXgKt5UAAAAM/kuroo-tetsurou-haikyuu.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
