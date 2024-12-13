@@ -4,7 +4,6 @@
 <img align="left" height="150" src="https://media.tenor.com/Q3h6crA__hcAAAAM/itadori-yuji-hello.gif"  />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sowdarjya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowdarjya&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)<br/>
