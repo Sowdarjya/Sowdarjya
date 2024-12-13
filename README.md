@@ -14,7 +14,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sowdarjya&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sowdarjya&theme=radical&hide_border=false&border=true&border_color=ffffff)
-<img align="right" src="https://media.tenor.com/PGEpDsrsYcIAAAAM/luffy-one-piece-anime.gif"  />
+<img align="center" src="https://media.tenor.com/PGEpDsrsYcIAAAAM/luffy-one-piece-anime.gif"  />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowdarjya&theme=transparent)
 
