@@ -19,19 +19,39 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="48" alt="Java" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="48" alt="Dart" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" alt="React" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="Tailwind" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/mui/007FFF" height="48" alt="MaterialUI" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" alt="Redux" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=bun" height="48" alt="Bun" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="48" alt="MongoDB" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" alt="Firebase" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="48" alt="Flutter" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="48" alt="Git" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="48" alt="Appwrite" style="margin-right: 18px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
+<h3 align="center">GitHub Stats</h3>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sowdarjya&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sowdarjya&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<div align="center">
+  <!-- Row 1 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sowdarjya&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sowdarjya&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
+  </div>
+  
+  <!-- Row 2 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sowdarjya&theme=radical" alt="Repos Per Language" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sowdarjya&theme=radical" alt="Most Commit Language" width="48%" />
+  </div>
 
+  <!-- Row 3 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowdarjya&theme=radical&hide_border=false&border=ffffff" alt="GitHub Streak Stats" width="48%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowdarjya&theme=radical" alt="Profile Details Card" width="48%" />
+  </div>
+</div>
 
+<h2 align="center">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+  </picture> My GitHub Contribution Graph:
+</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowdarjya&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Contribution Graph" width="100%" />
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sowdarjya/Sowdarjya/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/Sowdarjya/Sowdarjya/output/snake.svg" alt="Snake animation" align="center" />
