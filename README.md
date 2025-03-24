@@ -7,6 +7,10 @@
       <h1>
         👋 Hi, my name is Sowdarjya Kolay
       </h1>
+    </br>
+      <h1>
+        MERN stack developer
+      </h1>
     </summary>
   </ul>
 </div>
