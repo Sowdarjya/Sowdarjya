@@ -21,7 +21,53 @@
 
  <h3 align="center">Skills</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="48" alt="Java" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="48" alt="Dart" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" alt="React" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="Tailwind" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/mui/007FFF" height="48" alt="MaterialUI" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" alt="Redux" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=bun" height="48" alt="Bun" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="48" alt="MongoDB" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" alt="Firebase" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="48" alt="Flutter" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="48" alt="Git" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="48" alt="Appwrite" style="margin-right: 18px"></div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
 
 <h3 align="center">GitHub Stats</h3>
 
