@@ -9,7 +9,7 @@
       </h1>
     </br>
       <h1>
-        MERN stack developer
+        Full stack developer
       </h1>
     </summary>
   </ul>
