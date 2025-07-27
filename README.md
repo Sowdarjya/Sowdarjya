@@ -94,6 +94,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowdarjya&theme=radical&hide_border=false&border=ffffff" alt="GitHub Streak Stats" width="48%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowdarjya&theme=radical" alt="Profile Details Card" width="48%" />
   </div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sowdarjya&theme=radical&utcOffset=8" width="85%" />
 </div>
 
 <h2 align="center">
